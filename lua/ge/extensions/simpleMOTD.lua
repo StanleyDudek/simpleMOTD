@@ -35,4 +35,6 @@ M.onWorldReadyState = onWorldReadyState
 M.onExtensionLoaded = onExtensionLoaded
 M.onExtensionUnloaded = onExtensionUnloaded
 
+M.onInit = function() setExtensionUnloadMode(M, "manual") end
+
 return M
