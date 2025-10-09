@@ -1,1 +1,2 @@
-queueExtensionToLoad('simpleMOTD')
+load("simpleMOTD")
+setExtensionUnloadMode("simpleMOTD", "manual")
