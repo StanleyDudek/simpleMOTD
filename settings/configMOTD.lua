@@ -17,7 +17,7 @@ config.motd.description = [[
     [br]
     Maybe some features will be added to simpleMOTD in the future!
     [br]
-    [i][b][right]Dudekahedron#1624 [color=#FF00FF]revived this concept, inspired by [/color]Uncle Joey's Base[/right][/b][/i]
+    [i][b][right]Dudekahedron#1624 [color=#FF00FF] last updated simpleMOTD on October 8, 2025.
 ]]
 config.motd.button = "Click Me to Acknowledge!" --text of the button at the bottom of the MOTD
 
